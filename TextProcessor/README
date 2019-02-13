@@ -1,0 +1,4 @@
+Simple Text Processor
+
+This simple application, lets you find the words that starts with a vowel in a given paragraph of texts.
+It will give a count of the words found and highlight those words in the paragraph.
