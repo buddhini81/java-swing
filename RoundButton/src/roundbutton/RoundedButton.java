@@ -132,7 +132,7 @@ class RoundedButton extends Component {
      */
     @Override
     public Dimension getMinimumSize() {
-        return new Dimension(100, 100);
+        return new Dimension(200, 200);
     }
 
     /**
